@@ -1,0 +1,48 @@
+.depth-7-frame-017 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.depth-6-frame-020 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.takeout {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.depth-7-frame-018,
+.takeout {
+  align-self: stretch;
+}
+.depth-5-frame-31,
+.depth-6-frame-15,
+.depth-7-frame-018 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth-6-frame-15 {
+  align-self: stretch;
+  padding: 0 0 var(--padding-xs);
+}
+.depth-5-frame-31 {
+  height: 142.6px;
+  width: 168.2px;
+  gap: var(--gap-xs);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray);
+  font-family: var(--font-epilogue);
+}

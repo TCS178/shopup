@@ -1,0 +1,63 @@
+.depth-7-frame-08 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.depth-6-frame-014 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.delivery-fee {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.depth-7-frame-09 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.when-you-spend {
+  align-self: stretch;
+  position: relative;
+  line-height: 21px;
+}
+.depth-5-frame-011,
+.depth-6-frame-11,
+.depth-7-frame-12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth-7-frame-12 {
+  font-size: var(--font-size-sm);
+  color: var(--color-sienna);
+}
+.depth-5-frame-011,
+.depth-6-frame-11 {
+  padding: 0 0 var(--padding-xs);
+}
+.depth-5-frame-011 {
+  height: 405px;
+  padding: 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray);
+  font-family: var(--font-epilogue);
+}

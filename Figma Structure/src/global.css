@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-epilogue: Epilogue;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-3xl: 22px;
+  --font-size-lg: 18px;
+  --font-size-29xl: 48px;
+  --font-size-10xl: 29px;
+  --font-size-19xl: 38px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-snow: #fcfaf7;
+  --color-sienna: #9c6e4a;
+  --color-linen: #f5ede8;
+  --color-gray: #1c120d;
+  --color-mistyrose: #e8d9cf;
+  --color-chocolate: #f57d26;
+  --color-gainsboro: #e6e8eb;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-xs: 12px;
+  --gap-9xs: 4px;
+  --gap-13xl: 32px;
+  --gap-base: 16px;
+  --gap-base-9: 15.9px;
+  --gap-5xs: 8px;
+  --gap-xl: 20px;
+  --gap-base-8: 15.8px;
+  --gap-smi-1: 12.1px;
+  --gap-xs-8: 11.8px;
+  --gap-smi-4: 12.4px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-9xs: 4px;
+  --padding-base: 16px;
+  --padding-xs: 12px;
+  --padding-336xl-5: 355.5px;
+  --padding-212xl: 231px;
+  --padding-3xs-5: 9.5px;
+  --padding-smi: 13px;
+  --padding-311xl: 330px;
+  --padding-mini: 15px;
+  --padding-5xs: 8px;
+  --padding-325xl: 344px;
+  --padding-448xl-5: 467.5px;
+  --padding-285xl: 304px;
+  --padding-21xl: 40px;
+  --padding-10xs: 3px;
+  --padding-sm: 14px;
+  --padding-mid: 17px;
+  --padding-38xl: 57px;
+  --padding-2xl: 21px;
+  --padding-4xs-2: 8.2px;
+  --padding-3xs: 10px;
+  --padding-lg: 18px;
+  --padding-8xl-5: 27.5px;
+  --padding-115xl: 134px;
+  --padding-68xl: 87px;
+  --padding-xs-5: 11.5px;
+  --padding-5xl: 24px;
+  --padding-7xs-5: 5.5px;
+  --padding-7xs-4: 5.4px;
+  --padding-sm-9: 13.9px;
+  --padding-smi-5: 12.5px;
+  --padding-20xl-9: 39.9px;
+  --padding-2xs: 11px;
+  --padding-12xs-1: 0.1px;
+  --padding-229xl-7: 248.7px;
+  --padding-43xl: 62px;
+  --padding-105xl: 124px;
+  --padding-base-8: 15.8px;
+  --padding-base-6: 15.6px;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-5xs: 8px;
+}
